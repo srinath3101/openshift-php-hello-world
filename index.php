@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>DILEEP GIT LAB TESTING</title>
+<title>SUCCESSFUL TESTING OF SOURCE CODE AND DOCKER IMAGE </title>
 </head>
 
 <body>
