@@ -6,7 +6,7 @@
 
 <body>
 
-<?php echo "This is test box - Modifiyed the Index file by SRINATH Reddy- Version 4 - 02SEP2019"; ?>
+<?php echo "This is test box - Modifiyed the Index file by SRINATH Reddy- Version 5 - 05SEP2019"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
 <?php $links = [];
